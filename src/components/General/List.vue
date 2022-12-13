@@ -8,6 +8,8 @@
     <v-container class="ma-0 pa-0">
       <v-row class="ma-0 pa-0">
         <v-col class="ma-0 pa-0" cols="12" sm="12">
+          <LinkInput>
+          </LinkInput>
           <v-progress-circular
             v-if="isLoading"
             indeterminate
@@ -30,10 +32,12 @@ import Vue from "vue";
 import Link from "./Link.vue";
 import Component from "vue-class-component";
 import { Action, Getter } from "vuex-class";
+import LinkInput from "./LinkInput.vue";
 @Component({
   name: "List",
   components: {
     Link,
+    LinkInput,
   },
 })
 export default class List extends Vue {

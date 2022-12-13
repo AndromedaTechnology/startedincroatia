@@ -16,7 +16,7 @@
         </li>
       </ol>
     </h3>
-    <h3 class="mt-8">
+    <h3 class="mt-8" v-if="false">
       <h2>
         <v-chip large label class="my-4">
           <h1>
@@ -30,10 +30,10 @@
           🔗 Add a link to any page on the Internet that you own or contribute to
         </li>
         <li>
-          🚀 Click on the added link
+          🚀 Add a link to the input below
         </li>
         <li>
-          ✅ Confirm the Pop-up and you're Done! You are listed here!
+          ✅ Done! You are listed here!
         </li>
       </ol>
     </h3>
@@ -41,16 +41,16 @@
       <h2>
         <v-chip label large class="my-4">
           <h1>
-            Where
+            What
           </h1>
         </v-chip>
-        to add the link</h2>
+        can be listed here</h2>
       <ul>
-        <li>🧑‍💻 In your GitHub repo - README.md file</li>
-        <li>🕸 On your Project site - 🎉 Festivals, 🥁 Bands, 🖥 Software, ♧ Businesses, 💐 Places, ...</li>
+        <li>🧑‍💻 Your GitHub repo - README.md file</li>
+        <li>🕸 Your Project site - 🎉 Festivals, 🥁 Bands, 🖥 Software, ♧ Businesses, 💐 Places, ...</li>
       </ul>
     </h3>
-    <h3 class="mt-8">
+    <h3 class="mt-8" v-if="false">
       <h2 class="my-4">
         <v-chip label large>
           <h1>
