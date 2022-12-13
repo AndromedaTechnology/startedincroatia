@@ -7,7 +7,7 @@
         <Croatia class="my-4"></Croatia>
         <Info class="my-4"></Info>
         <AddLink
-          v-if="referrer"
+          v-if="false"
           :href="referrer"
         ></AddLink>
       </v-col>
