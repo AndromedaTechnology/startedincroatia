@@ -8,7 +8,7 @@
   <a href="https://startedincroatia.com">https://startedincroatia.com</a>
   <br />
   <br />
-  <a href="https://app.netlify.com/sites/andromeda-habitus/deploys"><img src="https://api.netlify.com/api/v1/badges/697e3f91-eed9-460f-8f92-14ed2f9da5fb/deploy-status" alt="Netlify Status" /></a>
+  <a href="https://app.netlify.com/sites/flourishing-cranachan-994f80/deploys"><img src="https://api.netlify.com/api/v1/badges/2d63c67e-11b0-466e-9a2d-daba5e751425/deploy-status" alt="Netlify Status" /></a>
 </p>
 
 Open Source.
