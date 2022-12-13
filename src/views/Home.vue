@@ -43,6 +43,7 @@ export default class Home extends Vue {
   get referrer(): string | null {
     const native = document.referrer;
     const v2 = window?.frames?.top?.document.referrer;
+    console.log("--ref", native, v2);
     return native ?? v2 ?? null;
   }
 
