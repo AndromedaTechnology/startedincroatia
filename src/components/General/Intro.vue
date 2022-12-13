@@ -12,7 +12,7 @@
           👩‍👦 To attract even more smart and good people into Croatia
         </li>
         <li>
-          🤩 To motivate Croatians to create and support each other
+          🤩 To motivate people to create and support each other
         </li>
       </ol>
     </h3>
