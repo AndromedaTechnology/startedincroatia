@@ -46,7 +46,7 @@
         </v-chip>
         can be listed here</h2>
       <ul>
-        <li>🧑‍💻 Your GitHub repo - README.md file</li>
+        <li>🧑‍💻 Your GitHub repo - Add link to your README.md file</li>
         <li>🕸 Your Project site - 🎉 Festivals, 🥁 Bands, 🖥 Software, ♧ Businesses, 💐 Places, ...</li>
       </ul>
     </h3>
